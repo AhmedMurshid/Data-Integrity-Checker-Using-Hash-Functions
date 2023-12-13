@@ -1,4 +1,4 @@
-# CSE CSE 564 Cryptography
+# CSE 564 Cryptography
 import hashlib
 
 def calculate_hash(input_data, algorithm='sha256'):
